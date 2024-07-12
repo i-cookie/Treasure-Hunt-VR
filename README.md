@@ -1,5 +1,7 @@
 ## Sc4060 VR & AR assignment
 
-Obstacle course
+Obstacle course - Unity VR
 
-detailed information in Team 3 VR Report.pdf
+For some reason, version control of this project is done using Google Drive, so this repo only contains the project report.
+
+detailed information: see Team 3 VR Report.pdf
